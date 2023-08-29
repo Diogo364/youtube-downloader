@@ -1,4 +1,4 @@
-****# YouTube Video Downloader
+# YouTube Video Downloader
 
 This Python script allows you to download YouTube videos using the Pytube library. You can provide either a list of video URLs directly as command-line arguments or specify an input file containing the URLs. The downloaded videos will be saved as MP4 files in the specified output directory.
 
