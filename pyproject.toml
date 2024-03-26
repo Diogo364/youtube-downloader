@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "youtube-downloader"
+version = "0.1.0"
+description = ""
+authors = ["Diogo Telheiro do Nascimento <diogotnascimento94@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pytube = "^15.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
